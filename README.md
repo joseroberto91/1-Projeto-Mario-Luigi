@@ -1,7 +1,7 @@
 <h1>Encanadores Mario e  Luigi</h1>
 <br>
 
-<h2>Projeto responsivo desenvolvido durante o curso <a href="https://rodolfomori.com.br/devclub">Devclub</a> O objetivo foi aplicar boas práticas de desenvolvimento web com foco em responsividade e usabilidade em diferentes dispositivos utilizando as seguntes tecnologias:</h2>
+<h2>Projeto responsivo desenvolvido durante o curso <a href="https://rodolfomori.com.br/devclub">Devclub</a>. <br>O objetivo foi aplicar boas práticas de desenvolvimento web com foco em responsividade e usabilidade em diferentes dispositivos utilizando as seguntes tecnologias:</h2>
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
 
